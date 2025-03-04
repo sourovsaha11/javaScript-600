@@ -1,0 +1,2 @@
+//vabchilam 7 hours dhore porashuna korbo . ei boita tana 5 hour dhore porlam , sokal theke boi ta niye boshe achi ,javaScript er basic jinish potro gula dekhtechi r code likhar try kortechi . 
+const studyaTime = 7;

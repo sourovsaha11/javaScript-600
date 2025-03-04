@@ -1,0 +1,1 @@
+const marks = 98;

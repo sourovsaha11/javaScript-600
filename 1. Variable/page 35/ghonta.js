@@ -1,0 +1,1 @@
+const ghonta = 6;
