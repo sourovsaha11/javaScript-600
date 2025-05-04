@@ -1,0 +1,3 @@
+/* 
+ek file theke ekadhik default export kora jabe na.ekta sudhu default export kora jay.r jodi ekadhik korte hoy taile nam diye export korte hoy.
+*/
