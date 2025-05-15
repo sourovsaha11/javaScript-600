@@ -1,0 +1,1 @@
+// line er sesh a semi colon na dile syntax Error dibe.. jodio vs code a ekhon r error dey na , Nijei solve kore dey.
