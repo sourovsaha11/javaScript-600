@@ -1,0 +1,4 @@
+/* 
+JavaScript is a programming language . you can say its a high level programming language .
+
+*/

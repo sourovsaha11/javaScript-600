@@ -1,0 +1,1 @@
+/* setTimeout er second perameter bad dile 0 milisecond man default hisebe dhore ney.sob kaj sesh kore then eita run kore js */

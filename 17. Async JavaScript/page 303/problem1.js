@@ -1,0 +1,6 @@
+/*
+
+synchronous coder moddhe function call korle age function er kache jabe then tar vitore ja ja kaj ache seta korbe tarpor function theke ber hobe kaj sesh kore. Then coder mooddhe function er nicher kaj gulo korbe . 
+
+
+*/

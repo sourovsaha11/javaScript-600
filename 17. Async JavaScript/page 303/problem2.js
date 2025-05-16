@@ -1,0 +1,3 @@
+/* 
+javascript majhe majhe single threaded. bola jay by nature .but sob somoy na . eta diye majhe nmajhe multi threaded kaj o kora hoye thake .
+*/

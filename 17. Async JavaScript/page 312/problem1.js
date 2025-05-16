@@ -1,0 +1,1 @@
+/* javascript JIT compile r v8 engine er sathe code run kore */
