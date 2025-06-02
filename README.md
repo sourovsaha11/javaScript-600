@@ -1,1 +1,1 @@
-This is a folder where i wrote code about the book called "Marhaba JavaScript" by Jhankar mahbub. This book is for JavaScript entry level explorer,who wants to know how to code in Js . Basic things are here ,And i wrote every problem of this book here . #firsEdition #ProgrammingBook
+This is a folder where i wrote code about the book called "Marhaba JavaScript" by Jhankar mahbub. This book is for JavaScript entry level explorer,who wants to know how to code in Js . Basic things are here ,And i wrote every problem of this book here . #firstEdition #ProgrammingBook
