@@ -1,0 +1,1 @@
+// v8 engine javascript er code k machine code a convert kore dey. v8 engine JIT compiler use kore jar fole just in time somoye code convert hoye compile hoye jay . jeta interpreted er cheye onek fast kaj kore .er fole bar bar chola code k optimised kora jay .ebong fast run kora jay.

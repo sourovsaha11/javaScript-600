@@ -1,0 +1,1 @@
+// javaScript er code browser a chole. browser a ekta engine ache jetar nam v8 engine .eta javascript er code bujhte help kore . javascript er code k eta machine language a convert kore compile kore r tarpor run kore . so amra bolte pari javascript er code browser a v8 engine er sahajjo niye run kore.

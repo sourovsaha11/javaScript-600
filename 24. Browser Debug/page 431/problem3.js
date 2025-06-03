@@ -1,0 +1,1 @@
+// JIT compiler just in time a kaj kore . eta source code k machine code a convert kore dey run time a . run time bolte bujhay jokhon program ta cholche thik tokhon e compile hoye jay .jar fole run kora fast hoye jay.
