@@ -1,0 +1,1 @@
+// with ekta statement , eta scope er moto kaj kore , tobe eta use korle majhe majhe bug khujte problem hoye jay . notun js a "use strict" babohar korle with use kora jay na .

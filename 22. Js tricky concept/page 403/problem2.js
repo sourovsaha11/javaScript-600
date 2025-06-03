@@ -1,0 +1,1 @@
+// eval ekta function .jeta input neoyar kaj a bebohar kora hoy . but eta diye input nile seta code er moto behave kore and code change korte pare ba manupulate korte pare . that is why amra eval use kori na .

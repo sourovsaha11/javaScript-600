@@ -1,0 +1,1 @@
+// IIFE holo Immediately Invoked Function Expression. eta sathe sathe exicute hoye jay . parameter r argument er vitorei diye deoya jay , joto iccha khusi totogula . ekbar call charai use korar jonno IIFE use kora hoy . Example : software initialise korar smy / start korar smy . 
