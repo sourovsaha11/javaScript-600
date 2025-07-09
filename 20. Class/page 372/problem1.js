@@ -1,0 +1,1 @@
+// javascript inheritence kore parent class r child class er maddhome . prothome amra parent class create kori setar object er prototype ekta create hoy , jar sahajje amra onno object er sathe connection korte pari and onno object er access nite pari . example super,class,constuctor egular help niye amra inheritence korte pari.

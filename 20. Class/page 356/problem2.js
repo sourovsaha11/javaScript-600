@@ -1,0 +1,1 @@
+// class instance bolte bujhay kono object oi class er children ki na . orthat amra kono object theke bujhte pari seta kon class er object , r seta check korte instanceof use korte hoy .

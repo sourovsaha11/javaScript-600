@@ -1,0 +1,1 @@
+// inheritance hoilo parent class er jinish potro extends r super er maddhome child class a bebohar korar ekta system . inheritance er jonno parent class theke child class a property gulo use kora jay.jar fole bar bar eki code repeate korte hoy na.code DRY thake.
