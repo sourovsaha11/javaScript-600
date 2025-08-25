@@ -1,0 +1,5 @@
+/*
+
+database a new kichu add korte hoile create korte hoy jake amra POST method boli.notun information add korte hoile POST use korte hoy.
+
+*/

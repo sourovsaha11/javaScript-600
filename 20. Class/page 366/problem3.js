@@ -30,7 +30,7 @@ class bike extends vehical{
 
     constructor(brand, color, tyre, milage, price) {
         
-        super(brand, color, tyre, milage);
+        super(brand, color, tyre, milage); 
         this.price = price;  
     }
 };

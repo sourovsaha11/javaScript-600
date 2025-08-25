@@ -11,3 +11,10 @@ const productReview = {
 };
 const productReviewJSON = JSON.stringify(productReview);
 console.log(productReviewJSON);
+
+// Convert JSON string back to JS object
+const parsed = JSON.parse(productReviewJSON);
+
+// Convert object values to array
+const productArray = Object.values(parsed);
+console.log(productArray);
