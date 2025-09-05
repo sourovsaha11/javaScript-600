@@ -1,6 +1,7 @@
 const userDatabase = (function () {
     const users = [];
     const transactionHistory = [];
+    let processingFee = 0;
     return {
         registerUser: function (name, pin) {
             // checking name and pin ache kina
@@ -43,10 +44,10 @@ const userDatabase = (function () {
                 matchedUser.balance += amount;
 
                 // adding history section.
-                const newHistory = {
-                sender: nameUser,
-                receiver: nameUser,
-                amount: amount
+                        const newHistory = {
+                            sender: nameUser,
+                            receiver: nameUser,
+                            amount: amount
                 };
                 
                 transactionHistory.push(newHistory);
@@ -68,19 +69,24 @@ const userDatabase = (function () {
         sendMoney : function (nameUser,pinNumber,recieverName,amountOfMoney) {
             const matchedUser = users.find(user => user.name === nameUser && user.pin === pinNumber);
             if (matchedUser) {
-                if (matchedUser.balance >= amountOfMoney) {
+                if (matchedUser.balance >= amountOfMoney + 15) {
                     const matchedUser2 = users.find(user => user.name === recieverName);
                     if (matchedUser2) {
                         matchedUser2.balance += amountOfMoney;
-                        matchedUser.balance -= amountOfMoney;
+                        matchedUser.balance -= amountOfMoney + 15;
+
+                        // adding processingFee
+                        processingFee = processingFee + 15;
+                        console.log("processing fee is : ", processingFee);
+
                         console.log(matchedUser.balance);
                         console.log(matchedUser2.balance);
 
                         // adding history section.
                                 const newHistory = {
-                                sender: nameUser,
-                                receiver: nameUser,
-                                amount: amountOfMoney
+                                    sender: nameUser,
+                                    receiver: recieverName,
+                                    amount: amountOfMoney
                             };
                 
                         transactionHistory.push(newHistory);
@@ -115,7 +121,7 @@ const userDatabase = (function () {
             }
         },
 
-        
+       
     };
 
     
@@ -145,5 +151,7 @@ console.log(userDatabase.addMoney("Bob",5678, 50000));
 console.log(userDatabase.checkBalance("Alice", 1234));
 
 // taka send korar method
+console.log(userDatabase.sendMoney("Alice", 1234, "Bob", 100));
+console.log(userDatabase.sendMoney("Alice", 1234, "Bob", 200));
 console.log(userDatabase.sendMoney("Alice", 1234, "Bob", 100));
 
